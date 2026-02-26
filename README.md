@@ -1,5 +1,5 @@
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=180&section=header&text=Cunnekba&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Cunnekba%40&section=footer&fontAlignY=64&fontAlign=50&animation=scaleIn&cachebust=1)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F727CE&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Qt+Desktop+Applications;Exploring+Graphics+Programming" />
