@@ -89,7 +89,7 @@
 ## 💬 Quote
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4FC3F7&height=130&text=%22NO%20PAIN%20-%20NO%20GAIN%22%20%E2%80%94%20SV%20Nam%202&fontSize=28&fontColor=000000&borderRadius=25"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:4FC3F7,100:81D4FA&text=%22NO%20PAIN%20-%20NO%20GAIN%22%20%E2%80%94%20Year%202%20Developer&fontSize=24&fontColor=8A2BE2&stroke=4B0082&strokeWidth=2"/>
 </p>
 
 <!-- RGB LED BOTTOM -->
@@ -113,3 +113,25 @@
   <rect width="1000" height="14" fill="url(#rgbBottom)" rx="8"
         style="filter: drop-shadow(0 0 8px #FF0000);" />
 </svg>
+
+---
+
+# 🏆 Academic Achievement Board
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Completed-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Completed-4B0082?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/C%2B%2B%20Programming-Completed-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Python%20Programming-Completed-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Database%20Fundamentals-Completed-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Computer%20Networks-Completed-FF6F00?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
+
+---
