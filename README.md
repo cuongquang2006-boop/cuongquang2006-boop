@@ -75,6 +75,23 @@
 
 ---
 
+## 🏆 Achievement Board
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-Year%202-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%26%20Qt-7F00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Desktop-App%20Builder-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Game-Experimenter-FFD000?style=for-the-badge"/>
+</p>
+
+---
+
+## 💬 Quote
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4FC3F7&height=130&text=%22NO%20PAIN%20-%20NO%20GAIN%22%20%E2%80%94%20SV%20Nam%202&fontSize=28&fontColor=000000&borderRadius=25"/>
+</p>
+
 <!-- RGB LED BOTTOM -->
 <svg width="100%" height="14" viewBox="0 0 1000 14" xmlns="http://www.w3.org/2000/svg">
   <defs>
