@@ -1,22 +1,23 @@
-<h1 align="center">Cunnekba</h1>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=180&section=header&text=Cunnekba&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+
 <p align="center">
-  C++ Developer • Desktop Applications • Graphics Programming
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F727CE&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Qt+Desktop+Applications;Exploring+Graphics+Programming" />
 </p>
 
 ---
 
-https://readme-typing-svg.herokuapp.com/demo/?color=F727CE&lines=C%2B%2B+Developer+%E2%80%A2+Qt+Desktop+Apps+%E2%80%A2+Raylib+Graphics
+## 🌐 Connect
 
-## 🌐 Socials
 <p align="center">
   <a href="https://www.facebook.com/cuongquang.2006">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@game4gb272">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
   </a>
   <a href="mailto:cuongquang2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -24,60 +25,28 @@ https://readme-typing-svg.herokuapp.com/demo/?color=F727CE&lines=C%2B%2B+Develop
 
 # 💻 Tech Stack
 
-## 🚀 Programming Languages
+### 🚀 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
----
-
-## 🧩 Frameworks & Libraries
+### 🧩 Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/Qt-217346?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-217346?style=flat-square&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raylib-000000?style=flat-square&logo=raylib&logoColor=white"/>
 </p>
 
----
-
-## 🗄️ Databases
+### 🗄 Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
----
-
-## 🛠️ Tools & Environment
+### 🛠 Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cuongquang2006-boop&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cuongquang2006-boop&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongquang2006-boop&theme=radical&hide_border=true&layout=compact"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cuongquang2006-boop&theme=radical&no-frame=true&no-bg=true&margin-w=6"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=cuongquang2006-boop&icon=0&color=0"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white"/>
 </p>
