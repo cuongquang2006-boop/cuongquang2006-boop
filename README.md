@@ -33,47 +33,41 @@
 
 <p align="center">
   <a href="https://www.facebook.com/cuongquang.2006">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+
   <a href="https://www.youtube.com/@game4gb272">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+
   <a href="mailto:cuongquang2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
 
 # 💻 Tech Stack
 
 ### 🚀 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python&perline=3&theme=dark" />
 </p>
 
 ### 🧩 Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/Qt-217346?style=flat-square&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raylib-000000?style=flat-square&logo=raylib&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=qt,raylib&perline=2&theme=dark" />
+  <img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_256x256.png" width="45" />
 </p>
 
 ### 🗄 Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 ### 🛠 Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&perline=4&theme=dark" />
 </p>
-
----
 
 ## 🏆 Achievement Board
 
@@ -84,7 +78,7 @@
   <img src="https://img.shields.io/badge/Game-Experimenter-FFD000?style=for-the-badge"/>
 </p>
 
----
+
 
 ## 💬 Quote
 
@@ -114,15 +108,17 @@
         style="filter: drop-shadow(0 0 8px #FF0000);" />
 </svg>
 
+
+
 ---
 
 # 🏆 Academic Achievement Board
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Completed-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Completed-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Completed-4B0082?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Completed-5C2D91?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/C%2B%2B%20Programming-Completed-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
@@ -135,3 +131,5 @@
 </p>
 
 ---
+
+
