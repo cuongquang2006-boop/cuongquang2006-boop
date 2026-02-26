@@ -1,3 +1,25 @@
+<!-- RGB LED TOP -->
+<svg width="100%" height="14" viewBox="0 0 1000 14" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rgbTop" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF">
+        <animate attributeName="stop-color"
+          values="#00F5FF;#7F00FF;#FF0000;#FFD000;#00F5FF"
+          dur="4s"
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7F00FF">
+        <animate attributeName="stop-color"
+          values="#7F00FF;#FF0000;#FFD000;#00F5FF;#7F00FF"
+          dur="4s"
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="14" fill="url(#rgbTop)" rx="8"
+        style="filter: drop-shadow(0 0 8px #00F5FF);" />
+</svg>
+
 <!-- HEADER WAVE -->
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Cunnekba%40&section=footer&fontAlignY=64&fontAlign=50&animation=scaleIn&cachebust=1)
 
@@ -50,3 +72,27 @@
   <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white"/>
 </p>
+
+---
+
+<!-- RGB LED BOTTOM -->
+<svg width="100%" height="14" viewBox="0 0 1000 14" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rgbBottom" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0000">
+        <animate attributeName="stop-color"
+          values="#FF0000;#FFD000;#00F5FF;#7F00FF;#FF0000"
+          dur="4s"
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FFD000">
+        <animate attributeName="stop-color"
+          values="#FFD000;#00F5FF;#7F00FF;#FF0000;#FFD000"
+          dur="4s"
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="14" fill="url(#rgbBottom)" rx="8"
+        style="filter: drop-shadow(0 0 8px #FF0000);" />
+</svg>
