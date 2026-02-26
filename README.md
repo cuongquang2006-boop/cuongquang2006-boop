@@ -5,6 +5,8 @@
 
 ---
 
+https://readme-typing-svg.herokuapp.com/demo/?color=F727CE&lines=C%2B%2B+Developer+%E2%80%A2+Qt+Desktop+Apps+%E2%80%A2+Raylib+Graphics
+
 ## 🌐 Socials
 <p align="center">
   <a href="https://www.facebook.com/cuongquang.2006">
