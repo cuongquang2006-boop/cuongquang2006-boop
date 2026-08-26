@@ -1,13 +1,17 @@
 ### Skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,react,tailwind,nodejs,nestjs,express,spring,postgres,git,qt,docker&theme=dark&perline=17" />
 </p>
 
 ### Learning
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,nextjs,php,mongodb,redis,kafka,kubernetes&theme=dark&perline=7" />
+  <img src="https://images.icon-icons.com/1508/PNG/512/wireshark_104082.png"
+       width="48"
+       height="48"
+       alt="Wireshark" />
 </p>
 
 <!-- <p align="center">
