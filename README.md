@@ -7,7 +7,7 @@
 ### Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,php,mongodb,redis,kafka,kubernetes&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,php,mongodb,kafka,kubernetes&theme=dark&perline=7" />
   <img src="https://images.icon-icons.com/1508/PNG/512/wireshark_104082.png"
        width="48"
        height="48"
