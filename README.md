@@ -1,7 +1,7 @@
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,postgres,git,qt,docker&theme=dark&perline=17" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,postgres,redis,git,qt,docker&theme=dark&perline=17" />
 </p>
 
 ### Learning
