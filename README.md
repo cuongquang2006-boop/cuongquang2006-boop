@@ -14,6 +14,27 @@
        alt="Wireshark" />
 </p>
 
+### AI Learning
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python" width="42" height="42" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/numpy" width="42" height="42" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas" width="42" height="42" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn" width="42" height="42" alt="Scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/pytorch" width="42" height="42" alt="PyTorch"/>
+  <img src="https://cdn.simpleicons.org/huggingface" width="42" height="42" alt="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/vllm" width="42" height="42" alt="vLLM"/>
+  <img src="https://cdn.simpleicons.org/langchain" width="42" height="42" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/qdrant" width="42" height="42" alt="Qdrant"/>
+  <img src="https://cdn.simpleicons.org/fastapi" width="42" height="42" alt="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/docker" width="42" height="42" alt="Docker"/>
+  <img src="https://cdn.simpleicons.org/weightsandbiases" width="42" height="42" alt="Weights & Biases"/>
+  <img src="https://cdn.simpleicons.org/transformers" width="42" height="42" alt="Transformers"/>
+  <img src="https://cdn.simpleicons.org/peft" width="42" height="42" alt="PEFT"/>
+  <img src="https://cdn.simpleicons.org/trl" width="42" height="42" alt="TRL"/>
+  <img src="https://cdn.simpleicons.org/bitsandbytes" width="42" height="42" alt="bitsandbytes"/>
+</p>
+
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,nextjs,nestjs,linux,redis,kafka,kubernetes&perline=8&theme=dark" />
 </p> -->
